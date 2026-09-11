@@ -198,6 +198,7 @@ const PLATFORMS = [
           { id: "wf2",      name: "WF2" },
           { id: "sp970v11", name: "SP970v11" },
           { id: "sp970v10", name: "SP970v10" },
+          { id: "qrzl903-custom-esim", name: "qrzl903-custom-esim",   recommended: true },
         ]
       },
     ]
