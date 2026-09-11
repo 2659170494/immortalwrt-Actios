@@ -29,6 +29,7 @@ on:
           - wf2
           - sp970v11
           - sp970v10
+          - qrzl903-custom-esim
         default: ufi003
         required: true
       upstream:
