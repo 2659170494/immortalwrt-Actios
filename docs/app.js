@@ -185,7 +185,7 @@ const PLATFORMS = [
       {
         nameKey: "series_main",
         devices: [
-          { id: "ufi003",   name: "UFi003",   recommended: true },
+          { id: "ufi003",   name: "UFi003",   recommended: false },
           { id: "ufi001c",  name: "UFi001C" },
           { id: "ufi001b",  name: "UFi001B" },
           { id: "ufi103s",  name: "UFi103S" },
